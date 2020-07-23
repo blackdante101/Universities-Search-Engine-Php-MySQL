@@ -1,5 +1,15 @@
 # Universities-Search-Engine-Php-MySQL
 Unifeed is a simple search engine for universites which includes an admin dashboard
+
+Frontend
+- HTML
+- CSS
+- Bootstrap
+
+Backend
+- Php/MySQL
+
+
 The role of the admin is to upload:
 
 - Logo Of University
