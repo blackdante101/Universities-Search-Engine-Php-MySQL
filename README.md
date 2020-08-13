@@ -3,16 +3,16 @@ Unifeed is a simple search engine for universites which includes an admin dashbo
 
 This Is A Preview Of The Website https://unifeed1.000webhostapp.com/
 
-Frontend
+# Frontend
 - HTML
 - CSS
 - Bootstrap
 
-Backend
+# Backend
 - Php/MySQL
 
 
-The role of the admin is to upload:
+# The Role Admin Is To Upload:
 
 - Logo Of University
 - Name of University
